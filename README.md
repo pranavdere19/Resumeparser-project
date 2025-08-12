@@ -3,7 +3,7 @@
 A Python-based **Resume Parser** that extracts key information (Name, Email, Phone, Skills, and Education) from PDF resumes.  
 Built with **Tkinter** for a GUI interface and **PDFPlumber** for reading PDF content.
 
-[Homepage].
+(Homepagerhome.png)
 
 ---
 
