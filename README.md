@@ -4,7 +4,7 @@ A Python-based **Resume Parser** that extracts key information (Name, Email, Pho
 Built with **Tkinter** for a GUI interface and **PDFPlumber** for reading PDF content.
 
 
-[Resumeparser homepage](rhome.jpeg)
+[Resumeparser homepage](rhome.png)
 
 ---
 
@@ -16,7 +16,7 @@ Built with **Tkinter** for a GUI interface and **PDFPlumber** for reading PDF co
 - Supports `.pdf` resumes
 - Outputs results instantly in the application
 
-[Data Extraction window].(rexe.png)
+[Data Extraction window](rexe.png)
 
 ---
 
